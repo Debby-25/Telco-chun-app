@@ -36,6 +36,10 @@ Technologies Used
 | template.csv |  | 
 | requirements.txt |  | 
 
+ Live Demo
+👉 Click here to try the app
+(Replace with your actual Streamlit Cloud URL once deployed)
+
 
 
 
